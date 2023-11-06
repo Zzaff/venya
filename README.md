@@ -7,7 +7,12 @@ More Features will be added, you can suggest in the discord too.
 
 ### Current Features ###
 ```
-unknown
+# Roblox #
+  - Account Generator
+  - Cookie Checker (cookies)
+  - Friend, View, Follow bots
+# Warzone #
+  - Warzone 2.0 UA Tools (open-sourced, not guarenteed working)
 ```
 
 ### Price ###
